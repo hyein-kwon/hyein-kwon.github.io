@@ -10,7 +10,8 @@
 
 body {
   line-height: 1.2;
-  font-family: $primary-font;
+  font-family: 'NanumSquareRoundEB';
+  src: url("../fonts/NanumSquareRoundEB.ttf") format("ttf");
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: $text-color;
