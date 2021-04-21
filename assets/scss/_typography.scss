@@ -1,11 +1,11 @@
 /*  typography */
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700');
+
 
 @font-face {
-  font-family: 'NanumSquareRoundEB';
-  src: url("../fonts/NanumSquareRoundEB.ttf") format("truetype");
-  font-style: normal;
-  font-display: normal;
+    font-family: 'NanumSquareRound';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
