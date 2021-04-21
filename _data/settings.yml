@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: 기획하는 디자이너, 권혜인입니다!
+title: portfolio
 logo: 
 author: themefisher
 description: this is meta description
@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Bachelor of Science in Information and Interaction Design, date: '2016.03 - Present', organization: 'Yonsei University'}
+- {name: 경북외국어고등학교, date: '2013.03 - 2016.02', organization: '영어 전공, 중국어 부전공'}
+#- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+#- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
