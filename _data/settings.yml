@@ -116,8 +116,8 @@ experience:
 
 education-title: Education
 education:
-- {name: Bachelor of Science in Information and Interaction Design, date: '2016.03 - Present', organization: 'Yonsei University'}
-- {name: 경북외국어고등학교, date: '2013.03 - 2016.02', organization: '영어 전공, 중국어 부전공'}
+- {name: 연세대학교 <br> 정보인터랙션디자인학 전공, date: '2016.03 - Present', organization: 'Yonsei University'}
+- {name: 경북외국어고등학교 졸업, date: '2013.03 - 2016.02', organization: '영어 전공, 중국어 부전공'}
 #- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
 #- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
