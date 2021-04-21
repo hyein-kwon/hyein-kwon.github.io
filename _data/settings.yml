@@ -11,8 +11,8 @@ address: Mapo-gu, Seoul, Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
-<a href="#name1"> about </a>
+#- {name: About, link: '/about'}
+- <a href="#name1"> about </a>
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
