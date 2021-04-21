@@ -12,6 +12,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
 - {name: About, link: '/about'}
+<a href="#name1"> about </a>
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
@@ -56,6 +57,7 @@ blurb:
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
+<a name="name1"> about </a>
 
 
 # About Page
