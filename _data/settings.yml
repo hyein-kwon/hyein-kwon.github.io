@@ -12,7 +12,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
 #- {name: About, link: '/about'}
-- <a href="#name1"> about </a>
+<a href="#about">top</a>
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
@@ -50,7 +50,7 @@ social:
 
 #-------------------------------
 # About (Section and Page)
-
+<a id="about">about</a>
 # About Section
 blurb:
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
